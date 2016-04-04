@@ -1,2 +1,2 @@
 # sum_integers
-Simple CUDA addition of integer vectors
+Simple CUDA implementation of addition of two integer vectors
